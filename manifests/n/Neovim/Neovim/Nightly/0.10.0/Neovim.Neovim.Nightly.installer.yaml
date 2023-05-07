@@ -7,11 +7,11 @@ InstallerLocale: en-US
 MinimumOSVersion: 10.0.0.0
 InstallerType: wix
 Scope: machine
-ReleaseDate: 2023-05-04
+ReleaseDate: 2023-05-06
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.msi
-  InstallerSha256: C6F0017EA1A62CFF75942643B9753943AC48773E5E5F89F7BADB8045F257B637
-  ProductCode: '{6337099F-389B-45C2-B530-FFE926CEDE03}'
+  InstallerSha256: 04E813C1D40AE9351A987E331BB6E59E56B28A41DE01AC3E5DE0C28CEEFC3EC5
+  ProductCode: '{3F6EB0D5-6DFD-4343-9904-0F279B91E9C2}'
 ManifestType: installer
 ManifestVersion: 1.4.0
